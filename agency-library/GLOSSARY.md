@@ -1,0 +1,38 @@
+# Glossary — vocabulario común de la agencia
+
+- **Adquisición** — conseguir que un desconocido se convierta en lead/cliente.
+- **Akrasia** — hacer lo fácil aunque se sabe lo correcto. (Comportamiento; ver 01-business)
+- **Arbitraje de canal** — aprovechar un canal infravalorado antes de que suba el CAC.
+- **Activation (activación)** — primera experiencia donde el usuario obtiene valor real.
+- **Backlog** — cola de trabajo priorizada y no iniciada.
+- **BANT** — Budget, Authority, Need, Timeline. Esquema de cualificación de leads.
+- **Burn rate** — ritmo al que se consume caja.
+- **CAC** — coste de adquisición de cliente.
+- **Churning** — abandono; % de clientes que dejan el producto/servicio.
+- **Consistencia** — en diseño, coherencia de componentes; en investigación, repetibilidad.
+- **Design system** — conjunto de tokens, componentes y reglas de diseño documentadas.
+- **DI** — declaración de impacto; ver marcos de Discovery.
+- **Dogfooding** — usar el propio producto internamente.
+- **Evidence Tier** — jerarquía de evidencia (Tier 1: primario; Tier 2: secundario creíble; Tier 3: apoyo). Ver 09-research.
+- **Feature factory** — anti-patrón: construir por output sin outcomes. Ver 06-product.
+- **Funnel** — secuencia lead → MQL → oportunidad → cliente → retención/expansión.
+- **GTM** — go-to-market; cómo se lanza al mercado una oferta.
+- **Heurística** — regla práctica válida la mayoría de las veces, no ley.
+- **Jobs To Be Done (JTBD)** — marco: la gente "contrata" productos para un "trabajo".
+- **KPI / OKR** — KPI = métrica de salud; OKR = objetivo + resultados clave (cadencia).
+- **L3 / L4 — capas de evidencia** — ver 09-research-intelligence.
+- **Landing page** — página con un único objetivo de conversión.
+- **MQL/SQL** — marketing-qualified lead / sales-qualified lead.
+- **MRR / ARR** — ingreso recurrente mensual/anual.
+- **Network effect** — producto más valioso cuanto más gente lo usa.
+- **Oportunidad (Sales)** — interacción con intención comercial cualificada.
+- **PMF** — product-market fit.
+- **Positioning** — sitio que ocupa la marca en la mente del segmento frente a alternativas.
+- **RACI** — Responsible, Accountable, Consulted, Informed.
+- **Retención** — clientes que siguen activos a lo largo del tiempo.
+- **Roadmap** — plan por temas/outcomes, no por fechas inventadas.
+- **ROI / ROAS** — retorno de la inversión / retorno del gasto publicitario.
+- **Scope creep** — crecimiento no acordado del alcance; ver 10-operations.
+- **TAM/SAM/SOM** — mercado total / accesible / obtenible.
+- **Unit economics** — economía por cliente/unidad (CAC, LTV, margen, payback).
+- **Value proposition** — promesa diferencial que el cliente entiende en segundos.

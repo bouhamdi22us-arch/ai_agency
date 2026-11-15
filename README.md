@@ -25,8 +25,8 @@ skills/            → copia en ~/.config/opencode/skills/
 ## Instalación (OpenCode)
 
 ```bash
-git clone https://github.com/bouhamdi22us-arch/ai-agency.git
-cd ai-agency
+git clone https://github.com/bouhamdi22us-arch/ai_agency.git
+cd ai_agency
 
 # Agentes y skills
 mkdir -p ~/.config/opencode
